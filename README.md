@@ -21,3 +21,6 @@ This can be repeated by pressing the Generate Password button again.
 ![Screenshot 2021-05-08 213413](https://user-images.githubusercontent.com/48900910/117557898-e5d36300-b045-11eb-9569-839a4eabfebd.png)
 ![Screenshot 2021-05-08 213431](https://user-images.githubusercontent.com/48900910/117557899-e79d2680-b045-11eb-838e-5ddc07ab1e08.png)
 
+## Deployed site URL:
+
+https://nodrognaes.github.io/Password-Generator/
