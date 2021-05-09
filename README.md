@@ -17,4 +17,7 @@ and the randomly genererated password will print to the screen.
 This can be repeated by pressing the Generate Password button again.
 
 ## Screenshots:
+![Screenshot 2021-05-08 213208](https://user-images.githubusercontent.com/48900910/117557895-e2d87280-b045-11eb-8d1d-277d76a6a73d.png)
+![Screenshot 2021-05-08 213413](https://user-images.githubusercontent.com/48900910/117557898-e5d36300-b045-11eb-9569-839a4eabfebd.png)
+![Screenshot 2021-05-08 213431](https://user-images.githubusercontent.com/48900910/117557899-e79d2680-b045-11eb-838e-5ddc07ab1e08.png)
 
