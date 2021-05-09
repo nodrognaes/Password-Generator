@@ -9,7 +9,7 @@ function getPassword() {
   var options = {};
   //create var to store length of password
   var length = parseInt(
-    prompt('How many characters would you like your password to be?')
+    prompt('How many characters would you like your password to be? (Must be between 8 and 128 characters)')
   );
   //create conditional statement to check if pw lenght is actually a number
   if (Number.isNaN(length)) {
